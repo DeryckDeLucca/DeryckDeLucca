@@ -1,4 +1,4 @@
-<h2 align="left">Hello world 👋! <br><br>My name is Deryck and I'm a Full Stack Developer student...</h2>
+<h2 align="left">Hi 👋! My name is Deryck and I'm a Full Stack Developer student</h2>
 
 ###
 
@@ -59,7 +59,8 @@
 
 ###
 
-![snake gif](https://github.com/MandiMarchetti/MandiMarchetti/blob/output/github-contribution-grid-snake.gif)
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/DeryckDeLucca/DeryckDeLucca/output/snake.svg" alt="Snake animation" />
 
 ###
-
