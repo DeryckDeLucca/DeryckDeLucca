@@ -56,8 +56,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/DeryckDeLucca/DeryckDeLucca/output/snake.svg" alt="Snake animation" />
 
 ###
